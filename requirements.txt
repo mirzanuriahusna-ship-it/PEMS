@@ -1,0 +1,7 @@
+# Diuji dengan: python 3.13, numpy 2.5.3, pandas 3.0.5, scikit-learn 1.9.1, matplotlib 3.11.2, seaborn 0.13.2
+# Versi minimum di bawah kompatibel dengan Google Colab
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.9
+seaborn>=0.13
